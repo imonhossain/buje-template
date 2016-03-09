@@ -1,0 +1,118 @@
+/* Large desktop */
+@media (min-width: 1281px) { 
+
+
+
+ }
+@media (min-width: 768px) and (max-width: 979px) { 
+.portfolio_contents ul li{
+	float: left;
+	width: 50%;
+}
+p{
+	font-size:20px;
+}
+.app-details p{
+	font-size:18px;
+}
+.designer-details p{
+	font-weight:18px;
+}
+.single-service p{
+	font-size:18px;
+}
+.submit-delivery  p{
+	font-size:18px;
+}
+.blog-img {
+  padding-top: 10px;
+  width: 100%;
+  float:left;
+  margin-bottom:25px;
+}
+.blog-detail {
+  width: 100%;
+  float:left;
+}
+.news-letter-area h1{
+	font-size:40px;
+}
+ }
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+.portfolio_contents ul li {
+  float: left;
+  width: 50%;
+}
+.single-market{
+	padding:25px 0;
+}
+p{
+	font-size:20px;
+}
+.app-details p{
+	font-size:20px;
+}
+.designer-details p{
+	font-weight:20px;
+}
+.single-service p{
+	font-size:20px;
+}
+.submit-delivery  p{
+	font-size:20px;
+}
+.blog-img {
+  padding-top: 10px;
+  width: 100%;
+  float:left;
+  margin-bottom:25px;
+}
+.blog-detail {
+  width: 100%;
+  float:left;
+}
+.news-letter-area h1{
+	font-size:40px;
+}
+}
+
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {
+.single-market{
+	padding:25px 0;
+}
+p{
+	font-size:20px;
+}
+.app-details p{
+	font-size:20px;
+}
+.designer-details p{
+	font-weight:20px;
+}
+.single-service p{
+	font-size:20px;
+}
+.submit-delivery  p{
+	font-size:20px;
+}
+.blog-img {
+  padding-top: 10px;
+  width: 100%;
+  float:left;
+  margin-bottom:25px;
+}
+.blog-detail {
+  width: 100%;
+  float:left;
+}
+.single-market{
+	text-align:center;
+}
+.news-letter-area h1{
+	font-size:40px;
+}
+	}
+	
